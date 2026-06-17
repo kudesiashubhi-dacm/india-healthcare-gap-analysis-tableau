@@ -106,6 +106,9 @@ Healthcare development varies significantly across different states and regions.
 ---
 
 # Dashboard / Output
+<img width="1919" height="985" alt="Dashboard-1" src="https://github.com/user-attachments/assets/d7939613-f0d5-4c10-b848-f0ff39c0edd2" />
+<img width="1838" height="730" alt="Dashboard 2" src="https://github.com/user-attachments/assets/20be963a-c853-44b1-af35-2a32926cd948" />
+
 
 The dashboard provides:
 
